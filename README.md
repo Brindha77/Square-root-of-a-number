@@ -30,7 +30,7 @@ print("Square root of the number:",newton_method(a))
 ```
 
 ## Output:
-![](./assign2.png)
+![output](./assign2.png)
 
 
 ## Result:
